@@ -1,4 +1,4 @@
 flask
 flask_restful
-Flask-SQLAlchemy
-pymysql
+mysql-connector-python
+pyjwt
